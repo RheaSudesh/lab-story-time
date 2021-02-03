@@ -1,4 +1,3 @@
-
 function getJasmineRequireObj() {
   if (typeof module !== 'undefined' && module.exports) {
     return exports;
